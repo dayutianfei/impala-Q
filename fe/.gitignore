@@ -1,4 +1,3 @@
-target
 
 # Eclipse artifacts
 .classpath
@@ -33,7 +32,6 @@ src/test/resources/authz-policy.ini
 src/test/resources/minicluster-conf.xml
 
 # Generated thrift files
-generated-sources
 
 derby.log
 
