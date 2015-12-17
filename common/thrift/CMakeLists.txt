@@ -167,6 +167,7 @@ set (SRC_FILES
   Results.thrift
   RuntimeProfile.thrift
   StatestoreService.thrift
+  IDrillerObjects.thrift
   ${EXT_DATA_SRC_FILES}
 )
 
