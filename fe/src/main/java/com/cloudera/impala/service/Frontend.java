@@ -137,6 +137,7 @@ import com.google.common.collect.Sets;
  * This class allows the impala daemon to create TQueryExecRequest
  * in response to TClientRequests. Also handles management of the authorization
  * policy.
+ * @wzy
  */
 public class Frontend {
   private final static Logger LOG = LoggerFactory.getLogger(Frontend.class);
